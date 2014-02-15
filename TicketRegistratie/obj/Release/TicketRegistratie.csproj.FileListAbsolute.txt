@@ -1,0 +1,10 @@
+F:\Code\TicketRegistratie\TicketRegistratie\bin\Release\TicketRegistratie.exe
+F:\Code\TicketRegistratie\TicketRegistratie\bin\Release\TicketRegistratie.pdb
+F:\Code\TicketRegistratie\TicketRegistratie\obj\Release\TicketRegistratie.exe
+F:\Code\TicketRegistratie\TicketRegistratie\obj\Release\TicketRegistratie.pdb
+F:\Code\TicketRegistratie\TicketRegistratie\bin\Release\TicketRegistratie.exe.manifest
+F:\Code\TicketRegistratie\TicketRegistratie\bin\Release\TicketRegistratie.application
+F:\Code\TicketRegistratie\TicketRegistratie\obj\Release\TicketRegistratie.csprojResolveAssemblyReference.cache
+F:\Code\TicketRegistratie\TicketRegistratie\obj\Release\TicketRegistratie.exe.manifest
+F:\Code\TicketRegistratie\TicketRegistratie\obj\Release\TicketRegistratie.application
+F:\Code\TicketRegistratie\TicketRegistratie\bin\Release\TicketRegistratie.exe.config
